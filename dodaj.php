@@ -22,3 +22,13 @@ echo "Pracownik " . $imie . " " . $nazwisko . " został dodany do bazy";
 mysqli_close($do_bazy);
 
 ?>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>1234</title>
+</head>
+<body>
+</form>
+</body>
+</html>
